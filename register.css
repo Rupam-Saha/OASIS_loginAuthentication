@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+    color:beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rupam{
+    display: flex;
+}
+.register{
+    height:500px;
+    width:300px;
+    border:1px solid white;
+    border-radius: 10px;
+    background-color: aquamarine;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:black;
+}
+input{
+    background-color: white;
+    color:black;
+}
+.sayani button{
+    background-color:white ;
+    color:black;
+    margin-top: 35px;
+    height:30px;
+}
+#ab{
+    position: relative;
+    top:-8px;
+}
+.text p{
+    margin-top: 40px;
+}
+#login{
+    cursor: pointer;
+}
